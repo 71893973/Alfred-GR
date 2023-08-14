@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contaminación en el Perú</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Contaminación en el Perú</h1>
+    </header>
+    <div class="container">
+        <h2>Introducción</h2>
+        <p>La contaminación en el Perú es un problema ambiental importante que afecta a diversas áreas del país...</p>
+
+        <h2>Causas de la Contaminación</h2>
+        <p>Existen varias fuentes de contaminación en el Perú, incluyendo...</p>
+
+        <h2>Efectos en la Salud y el Medio Ambiente</h2>
+        <p>La contaminación tiene graves efectos en la salud de las personas...</p>
+
+        <h2>Medidas de Mitigación</h2>
+        <p>Para abordar este problema, se han implementado diversas medidas...</p>
+
+        <h2>Conclusiones</h2>
+        <p>La contaminación en el Perú es un desafío que requiere...</p>
+    </div>
+</body>
+</html>
